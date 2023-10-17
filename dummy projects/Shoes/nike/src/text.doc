@@ -1,0 +1,25 @@
+<h1 className="text-sm pr-2">Size:</h1>
+                <select
+                  className="border-none rounded-md outline-none pr-1 text-sm"
+                  name="cars"
+                  id="cars">
+                  <option value="6.5">6.5</option>
+                  <option value="7">7</option>
+                  <option value="7.5">7.5</option>
+                  <option value="8">8</option>
+                </select>
+
+                <h1 className="text-sm pr-2">Quantity:</h1>
+                <select
+                  className="border-none rounded-md outline-none pr-1 text-sm"
+                  name="cars"
+                  id="cars">
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                </select>
+
+                <IconButton className="" variant="text">
+              <TrashOutline />
+            </IconButton>

@@ -1,0 +1,15 @@
+.App {
+    background: rgb(182, 179, 179);
+    height: 100vh;
+    width: 100vw;
+}
+
+.search-bar-conrtainer{
+    padding-top: 20vh;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 200px;
+}

@@ -1,0 +1,11 @@
+{/*<div className="flex items-center justify-center rounded-full bg-gray-200 mx-auto w-[150px] h-[150px]">
+            <AlertOutline height="120px" width="120px" />
+          </div>
+          <h3 className="w-full h-full text-center pt-4 pb-4">
+            No Products in the cart.
+          </h3>
+          <div className="flex justify-center">
+            <button className="w-[150px] h-10 bg-purple-600 border-[1px] rounded-[3px] text-white">
+              RETURN TO SHOP
+            </button>
+          </div>*/}
